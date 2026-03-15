@@ -19,6 +19,7 @@ hub_server/help.md
 hub_server/CHANGELOG.md
 hub_server/hub_server
 hub_server/frontend/
+hub_server/docs/
 # ==================== 压缩文件 ====================
 # 所有压缩文件
 *.zip
